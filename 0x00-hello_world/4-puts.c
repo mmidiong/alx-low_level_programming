@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
- * main - A program that prints a line with puts function
- * Rturn: 0 (Success)
+ * main - Entry point
+ * Description: A program that prints exactly Programming is like building a multilingual puzzle, followed by a new line.
+ * Rturn: Always  0 (Success)
  */
 int main(void)
 {
