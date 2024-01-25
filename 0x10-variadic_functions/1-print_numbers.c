@@ -25,6 +25,7 @@ printf("%d", separator);
 }
 
 printf("\n");
+
 va_end(nums);
 }
 
