@@ -13,13 +13,13 @@ int main(void)
 	p = 'a';
 
 	while
-	(m <= 9);
+	(m <= 9)
 	{
 	putchar(m + '0');
 	m++;
 	} while
 
-	(p <= 'f');
+	(p <= 'f')
 	{
 	putchar(p);
 	p++;
