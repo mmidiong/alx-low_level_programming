@@ -3,9 +3,10 @@
 #include <stdlib.h>
 
 /**
- * int _islower(int c) - A function that checks if letters of the alphabet
+ *  _islower  - A function that checks if letters of the alphabet
  * are in lowercase
  * @c: character to be checked
+ * Return: Return 1 if c is lowercase otherwise return 0
  */
 
 int _islower(int c)
