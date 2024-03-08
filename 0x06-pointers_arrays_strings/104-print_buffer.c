@@ -2,7 +2,8 @@
 #include <stdio.h>
 
 /**
- * isPrintableASCII - A function that determines if n is a printable ASCII char.
+ * isPrintableASCII - A function that determines if n
+ *  is a printable ASCII char.
  * @n: integer
  *
  * Return: 1 if true, 0 if false.
