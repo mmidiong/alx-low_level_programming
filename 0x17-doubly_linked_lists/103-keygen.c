@@ -76,6 +76,13 @@ int f6(char *usrn)
 	return (((unsigned int)ch ^ 229) & 63);
 }
 
+/**
+ * main - Entry point
+ *
+ * @argc: arguments count
+ * @argv: arguments vector
+ * Return: Always 0
+ */
 int main(int argc, char **argv)
 {
 	char keygen[7];
