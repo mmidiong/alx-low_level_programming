@@ -3,7 +3,7 @@
 /**
  * print_dlistint - A C function that prints all the
  * elemts of a doubly linked list
- * 
+ *
  * @h: poiner to the head of the list
  *
  * Return: number of nodes
