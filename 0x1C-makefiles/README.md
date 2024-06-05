@@ -1,1 +1,1 @@
-This project has 5 mandatory tasks and one advanced task
+This project has six mandatory tasks and one advanced task
